@@ -6,6 +6,14 @@ A lightweight, full-stack Applicant Tracking System (ATS) for individual use. Tr
 
 This mini-ATS demonstrates modern full-stack development practices with a clean REST API, proper SQL data modeling, and a responsive UI. Perfect for showcasing technical skills in web development, API design, and data visualization.
 
+## 🌐 Live Demo
+
+- **Frontend (Vercel):** [https://job-application-tracker-nine-zeta.vercel.app](https://job-application-tracker-nine-zeta.vercel.app)
+- **Backend API (Render):** [https://job-application-tracker-fvir.onrender.com](https://job-application-tracker-fvir.onrender.com)
+- **API Documentation:** [https://job-application-tracker-fvir.onrender.com/docs](https://job-application-tracker-fvir.onrender.com/docs)
+
+> **Note:** The backend is hosted on Render's free tier and may take 30-60 seconds to wake up on first request.
+
 ## 🚀 Tech Stack
 
 ### Backend
